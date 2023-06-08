@@ -1,0 +1,28 @@
+{
+  "name": "game-fight-",
+  "version": "1.0.0",
+  "description": "Browser based game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dianaverevkina/Game-Fight-.git"
+  },
+  "keywords": [
+    "game"
+  ],
+  "author": "DV",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dianaverevkina/Game-Fight-/issues"
+  },
+  "homepage": "https://github.com/dianaverevkina/Game-Fight-#readme",
+  "devDependencies": {
+    "eslint": "^8.42.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.27.5"
+  }
+}
